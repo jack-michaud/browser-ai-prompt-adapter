@@ -80,4 +80,4 @@ This project is intended to be licensed under the MIT License.
 ## Acknowledgments
 
 - This project is inspired by the introduction of `window.ai` and the challenges it presents for cross-browser AI development.
-- The save/load functionality is inspired by projects like dspy, aiming to make prompt management more efficient.
+- The save/load functionality is inspired by projects like [DSPy](https://github.com/stanfordnlp/dspy), aiming to make prompt management more efficient.
